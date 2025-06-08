@@ -19,8 +19,8 @@ Add the dependency to your app's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.github.YourUsername:MobileSeminar:Tag")
-}
+	        implementation("com.github.GalAlfandary:VaultAuth:Tag")
+	}
 ```
 
 ## Basic Usage
