@@ -37,7 +37,9 @@ dependencies {
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
-    implementation(project(":VaultAuth"))
+    //implementation(project(":VaultAuth"))
+    implementation(libs.vaultauth)
+
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
