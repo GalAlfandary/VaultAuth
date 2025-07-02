@@ -174,7 +174,7 @@
     
     ```
 
-  ### 3\. Admin Portal (React)
+  ### 3\. [Admin Portal (React)](https://github.com/GalAlfandary/AdminPortal)
   
   -   **Libraries:** React, Axios, Leaflet, react-chartjs-2
   
@@ -184,4 +184,15 @@
   
       -   Real-time login analytics (charts, maps)
   
-      -   Geo-reverse-lookup via OpenStreetMap/Nominatim    
+      -   Geo-reverse-lookup via OpenStreetMap/Nominatim
+   
+  -    **Screenshots:**
+    <img width="961" alt="Image" src="https://github.com/user-attachments/assets/3777a28d-3a50-4170-9977-02008c34dd35" />
+
+<img width="1906" alt="Image" src="https://github.com/user-attachments/assets/0e2e3b01-bd54-4489-acf0-988848e895f7" />
+
+<img width="1621" alt="Image" src="https://github.com/user-attachments/assets/685601f0-cfb7-4f5e-ae69-9bd7b94893cd" />
+
+<img width="1886" alt="Image" src="https://github.com/user-attachments/assets/fc8fa676-6193-40a0-be69-3ed36337fcd2" />
+
+<img width="1913" alt="Image" src="https://github.com/user-attachments/assets/cd0b0f85-facf-48bc-9d42-0d104cad990e" />
