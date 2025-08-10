@@ -1,5 +1,7 @@
 # VaultAuth Seminar Project
 
+Link for presentation video: https://files.fm/u/v37nrfs9bh
+
 > **Auth SDK + Admin Portal**  
 > A full-stack demonstration of a RESTful authentication service (Flask + MongoDB Atlas), an Android SDK wrapper (Java), and a React-based administration portal with real-time analytics and location tracking.
 
